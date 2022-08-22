@@ -34,8 +34,8 @@ object Edvaldo {
 ## **GitHub Estatísticas**
 <div align="center">
   <a href="https://github.com/Edv-Fendi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edv-Fendi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edv-Fendi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 [Twitter]: https://twitter.com/Edv113
