@@ -32,25 +32,21 @@ object Edvaldo {
 
 
 ## **GitHub Estatísticas**
-<div align="center";>
-<a href="https://github.com/Edv-Fendi">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&theme=dracula&hide_langs_below=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/Edv-Fendi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edv-Fendi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-<a href="https://github.com/Edv-Fendi">
- <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=Edv-Fendi&show_icons=true&theme=dracula&line_height=27" alt="**Edvaldo Fendi** github stats"/>
-</a>
-</div>  
-
-[twitter]: https://twitter.com/Edv113
-[instagram]: https://www.instagram.com/edvaldo_fendi
-[linkedin]: https://www.linkedin.com/in/edvaldo-de-fendi-a45475234/
+[Twitter]: https://twitter.com/Edv113
+[Instagram]: https://www.instagram.com/edvaldo_fendi
+[LinkedIn]: https://www.linkedin.com/in/edvaldo-de-fendi-a45475234/
 <br>
 
 #### Rede Sociais!
 
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🐦 [Twitter][Twitter] **|** 
+📷 [Instagram][Instagram] **|** 
+👔 [LinkedIn][LinkedIn]
 
