@@ -12,7 +12,7 @@ object Edvaldo {
  val name = "Edvaldo de Fendi"
  val acknowledgements = "Desenvolvedor"
  
- val primarySkillset = "Liguagens"
+ val primarySkillset = "Linguagens"
  val languages = listOf("Java", "JavaScript", "HTML", "CSS", "SQL") 
 
 }
@@ -31,10 +31,15 @@ object Edvaldo {
 
 
 
-## **GitHub Estatísticas**
+<h2 align="center"> Most Languages </h2>
 <div align="center">
   <a href="https://github.com/Edv-Fendi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&langs_count=7&theme=dark"/>  
+</div>
+
+<h2 align="center"> Git Hub Stats </h2>
+<div align="center">
+  <a href="https://github.com/Edv-Fendi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edv-Fendi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -43,7 +48,7 @@ object Edvaldo {
 [LinkedIn]: https://www.linkedin.com/in/edvaldo-de-fendi-a45475234/
 <br>
 
-#### Rede Sociais!
+#### Rede Sociais:
 
 
 🐦 [Twitter][Twitter] **|** 
