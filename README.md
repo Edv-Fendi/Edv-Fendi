@@ -31,14 +31,14 @@ object Edvaldo {
 
 
 
-<h2 align="center"> Most Languages </h2>
-<div align="center">
+<h2 align="left"> Most Languages </h2>
+<div align="left">
   <a href="https://github.com/Edv-Fendi">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&langs_count=7&theme=dark"/>  
 </div>
 
-<h2 align="center"> Git Hub Stats </h2>
-<div align="center">
+<h2 align="left"> Git Hub Stats </h2>
+<div align="left">
   <a href="https://github.com/Edv-Fendi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edv-Fendi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
