@@ -13,7 +13,7 @@ object Edvaldo {
  val acknowledgements = "Desenvolvedor"
  
  val primarySkillset = "Linguagens"
- val languages = listOf("Java", "JavaScript", "HTML", "CSS", "SQL") 
+ val languages = listOf("Java", "JavaScript", "HTML", "C", "CSS", "SQL") 
 
 }
 ```
