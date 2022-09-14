@@ -37,7 +37,7 @@ object Edvaldo {
 <h2 align="left"> Most Languages </h2>
 <div align="left">
   <a href="https://github.com/Edv-Fendi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&langs_count=10&theme=dark"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edv-Fendi&langs_count=7&theme=dark"/>  
 </div>
 
 <h2 align="left"> Git Hub Stats </h2>
